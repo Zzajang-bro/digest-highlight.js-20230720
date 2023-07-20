@@ -1,3 +1,19 @@
+/*
+#######################################
+[ 처리중 ]
+
+COMMON_KEYWORDS: 기본 관련 값이 없는 키워드라는데, 변수명도 그렇고 아마 언어 공통인게 아닐까
+object.create(null) - 오브젝트 관련 프로토타입이 아예 없는 오브젝트를 만든다
+ㄴ 기능상으로는 이게 let o = {}여야 할 것 같은데 데이터 엔트로피 때문에 이렇게 정한건가
+
+
+
+#######################################
+*/
+
+
+
+
 // keywords that should have no default relevance value
 const COMMON_KEYWORDS = [
   'of',
