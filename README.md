@@ -5,10 +5,10 @@
 highlight.js를 씹어 삼키기 위한 레포
 
 ## 현재 진행중
-/src/lib/compile_keywords.js
+/src/lib/regex.js
 
 ## 진행 완료
-
+/src/lib/compile_keywords.js
 
 ## 목표
 + 모든 문서를 2분 내에 읽고 이해할 수 있게 한다
