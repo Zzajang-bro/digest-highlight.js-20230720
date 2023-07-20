@@ -1,7 +1,8 @@
 # Digest-highlight.js-20230720
-highlight.js를 씹어 삼키기 위한 레포
 
 > 이 프로젝트는 현재 진행중이다.
+
+highlight.js를 씹어 삼키기 위한 레포
 
 ## 목표
 + 모든 문서를 2분 내에 읽고 이해할 수 있게 한다
