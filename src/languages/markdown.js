@@ -82,7 +82,7 @@ export default function(hljs) {
         begin: /\[.+?\]\[.*?\]/,
         relevance: 0
       },
-      // popular internet URLs
+      // popular internet URLs 
       {
         begin: /\[.+?\]\(((data|javascript|mailto):|(?:http|ftp)s?:\/\/).*?\)/,
         relevance: 2
